@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Felipe 👋
 
 - 🔭 Estudante de Sistemas de Informação na Unesp Bauru
-- 🌱 Estudando Desenvolvimento de Software
+- 🌱 Estudando Desenvolvimento de Software, Data Science e DevOps
 - 😄 Pronomes: Ele/Dele
 
 <div style="display: inline_block"><br>
