@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Felipe 👋
 
 - 🔭 Estudante de Sistemas de Informação na Unesp Bauru
-- 🌱 Estudando Desenvolvimento de Software, Data Science e DevOps
+- 🌱 Estudando Desenvolvimento de Software e Ciência de Dados
 - 😄 Pronomes: Ele/Dele
 
 <div style="display: inline_block"><br>
@@ -11,7 +11,6 @@
   <img align="center" alt="Felipe-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Felipe-MySQL" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Felipe-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Felipe-Linux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
 
 ##
