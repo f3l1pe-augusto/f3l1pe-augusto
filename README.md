@@ -2,7 +2,7 @@
 
 - 💻 Estagiário em Desenvolvimento Full-Stack na Fundunesp
 - 🔭 Estudante de Sistemas de Informação na Unesp Bauru
-- 🌱 Estudando Desenvolvimento de Software e Ciência de Dados
+- 🌱 Estudando Desenvolvimento de Software, Ciência de Dados e DevOps
 - 😄 Pronomes: Ele/Dele
 
 <div style="display: inline_block"><br>
