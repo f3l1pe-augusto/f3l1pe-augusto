@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Felipe 👋
 
-- 💻 Estagiário em Desenvolvimento Full-Stack na Fundunesp
-- 🔭 Estudante de Sistemas de Informação na Unesp Bauru
+- 💻 Estagiário em Desenvolvimento Full-Stack 
+- 🔭 Estudante de Sistemas de Informação 
 - 🌱 Estudando Desenvolvimento de Software, Ciência de Dados e DevOps
 - 😄 Pronomes: Ele/Dele
 
