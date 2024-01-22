@@ -7,7 +7,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Felipe-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Felipe-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+  <img align="center" alt="Felipe-Spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="Felipe-MySQL" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Felipe-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
