@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Felipe 👋
 
-- 💻 Estagiário em Desenvolvimento Full-Stack 
+- 💻 Estagiário em Desenvolvimento de Software 
 - 🔭 Estudante de Sistemas de Informação 
-- 🌱 Estudando Desenvolvimento de Software, Ciência de Dados e DevOps
+- 🌱 Estudando Desenvolvimento de Software, Data Science, AI/ML e DevOps
 
 ##
 
