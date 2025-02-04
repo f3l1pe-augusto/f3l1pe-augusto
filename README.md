@@ -2,7 +2,7 @@
 
 - 💻 Estagiário em Desenvolvimento de Software 
 - 🔭 Estudante de Sistemas de Informação 
-- 🌱 Estudando Desenvolvimento de Software, Data Science, AI/ML e DevOps
+- 🌱 Estudando Desenvolvimento de Software, Data Science e AI/ML 
 
 ##
 
