@@ -2,7 +2,7 @@
 
 - 💻 Estagiário em Desenvolvimento de Software 
 - 🔭 Estudante de Sistemas de Informação 
-- 🌱 Estudando Ciência de Dados
+- 🌱 Estudando a área de Dados
 
 ##
 
