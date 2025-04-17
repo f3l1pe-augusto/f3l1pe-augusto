@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Felipe 👋
 
-- 💻 Estagiário em Desenvolvimento de Software 
-- 🔭 Estudante de Sistemas de Informação 
+- 💻 Estagiário em desenvolvimento de software 
+- 🔭 Estudante de sistemas de informação 
 - 🌱 Estudando ciência de dados
 
 ##
