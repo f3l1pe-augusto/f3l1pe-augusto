@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Felipe 👋
 
-- 💻 Engenheiro de software 
-- 🔭 Sistemas de Informação 
+- 💻 Desenvoledor de software 
+- 🎓 Sistemas de Informação 
 
 ##
 
