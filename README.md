@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Felipe 👋
 
-- 💻 Desenvolvedor de Software 
+- 💻 Desenvolvedor Backend
 - 🎓 Sistemas de Informação 
 
 ##
